@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.softserve.edu.sprint4.task3.Task3Test
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.047 s - in com.softserve.edu.sprint4.task3.Task3Test

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: jom.com.softserve.s6.task7.Task7Test
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.063 s - in jom.com.softserve.s6.task7.Task7Test

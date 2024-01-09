@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="jom.com.softserve.s6.task7.Task7Test" time="0.063" tests="12" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="D:\softserve\Sprint06\jom_streamapi_dateandtime_streams-solodukha-ihor\target\test-classes;D:\softserve\Sprint06\jom_streamapi_dateandtime_streams-solodukha-ihor\target\classes;C:\Users\igors\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.1\junit-jupiter-engine-5.7.1.jar;C:\Users\igors\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\igors\.m2\repository\org\junit\platform\junit-platform-engine\1.7.1\junit-platform-engine-1.7.1.jar;C:\Users\igors\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\igors\.m2\repository\org\junit\platform\junit-platform-commons\1.7.1\junit-platform-commons-1.7.1.jar;C:\Users\igors\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.1\junit-jupiter-api-5.7.1.jar;C:\Users\igors\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.7.1\junit-jupiter-params-5.7.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Warsaw"/>
+    <property name="user.country.format" value="UA"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.boot.library.path" value="D:\JAVA\jdk17\bin"/>
+    <property name="sun.java.command" value="C:\Users\igors\AppData\Local\Temp\surefire6605211676442013560\surefirebooter1905440114802442328.jar C:\Users\igors\AppData\Local\Temp\surefire6605211676442013560 2023-12-27T08-39-52_397-jvmRun1 surefire4282461432378307958tmp surefire_017288578310988838008tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\softserve\Sprint06\jom_streamapi_dateandtime_streams-solodukha-ihor\target\test-classes;D:\softserve\Sprint06\jom_streamapi_dateandtime_streams-solodukha-ihor\target\classes;C:\Users\igors\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.1\junit-jupiter-engine-5.7.1.jar;C:\Users\igors\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\igors\.m2\repository\org\junit\platform\junit-platform-engine\1.7.1\junit-platform-engine-1.7.1.jar;C:\Users\igors\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\igors\.m2\repository\org\junit\platform\junit-platform-commons\1.7.1\junit-platform-commons-1.7.1.jar;C:\Users\igors\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.1\junit-jupiter-api-5.7.1.jar;C:\Users\igors\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.7.1\junit-jupiter-params-5.7.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\igors"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-10-17"/>
+    <property name="java.home" value="D:\JAVA\jdk17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\softserve\Sprint06\jom_streamapi_dateandtime_streams-solodukha-ihor"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\igors\AppData\Local\Temp\surefire6605211676442013560\surefirebooter1905440114802442328.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.9+11-LTS-201"/>
+    <property name="user.name" value="igors"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\igors\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\igors\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.9"/>
+    <property name="user.dir" value="D:\softserve\Sprint06\jom_streamapi_dateandtime_streams-solodukha-ihor"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1251"/>
+    <property name="java.library.path" value="D:\JAVA\jdk17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\git\Git\cmd;D:\maven\apache-maven-3.9.6\bin;D:\AndroidSDK\JavaJDK;C:\Program Files\PowerShell\7\;C:\Users\igors\AppData\Local\Microsoft\WindowsApps;C:\Users\igors\AppData\Local\GitHubDesktop\bin;D:/AndroidSDK/AndroidSDK\platform-tools;D:/AndroidSDK/AndroidSDK\tools;D:\JAVA\IDE\IntelliJ IDEA 2023.2.2\bin;;D:\JAVA\IDE\IntelliJ IDEA Community Edition 2023.3.1\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.9+11-LTS-201"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="isTypePresent(String)[1]" classname="jom.com.softserve.s6.task7.Task7Test" time="0.025"/>
+  <testcase name="checkOneNumber" classname="jom.com.softserve.s6.task7.Task7Test" time="0.003"/>
+  <testcase name="checkOneDuplicate" classname="jom.com.softserve.s6.task7.Task7Test" time="0.001"/>
+  <testcase name="checkContainsNull" classname="jom.com.softserve.s6.task7.Task7Test" time="0"/>
+  <testcase name="checkEmptyStream" classname="jom.com.softserve.s6.task7.Task7Test" time="0"/>
+  <testcase name="isMethodPresent" classname="jom.com.softserve.s6.task7.Task7Test" time="0"/>
+  <testcase name="checkUniqueNumbers" classname="jom.com.softserve.s6.task7.Task7Test" time="0.003"/>
+  <testcase name="checkZeroNumbers" classname="jom.com.softserve.s6.task7.Task7Test" time="0.001"/>
+  <testcase name="checkThreeDuplicate" classname="jom.com.softserve.s6.task7.Task7Test" time="0"/>
+  <testcase name="checkSequenceDuplicate" classname="jom.com.softserve.s6.task7.Task7Test" time="0.001"/>
+  <testcase name="checkNegativeNumbers" classname="jom.com.softserve.s6.task7.Task7Test" time="0"/>
+  <testcase name="checkMoreDuplicate" classname="jom.com.softserve.s6.task7.Task7Test" time="0"/>
+</testsuite>
