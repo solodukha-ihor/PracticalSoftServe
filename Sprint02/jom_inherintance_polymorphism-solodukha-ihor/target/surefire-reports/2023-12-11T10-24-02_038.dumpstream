@@ -1,0 +1,4 @@
+# Created at 2023-12-11T10:24:02.685
+Boot Manifest-JAR contains absolute paths in classpath 'D:\softserve\Sprint02\jom_inherintance_polymorphism-solodukha-ihor\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
